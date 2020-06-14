@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "This is for the test!"
+title: "Markdown test page"
 tags: tag1 tag3
 ---
 
